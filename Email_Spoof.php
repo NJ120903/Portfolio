@@ -1,6 +1,6 @@
 <?php
 // Recipient email address 
-$to = 'recipient@example.com';
+$to = 'jraghav663@gmail.com';
 
 // Subject of the email 
 $subject = 'Test Email';
@@ -9,8 +9,8 @@ $subject = 'Test Email';
 $message = 'This is a test email.';
 
 // Sender email and name 
-$senderEmail = 'sender@example.com'; 
-$senderName 'John Doe';
+$senderEmail = 'joshinarayan407@gmail.com'; 
+$senderName 'Narayan Joshi';
 
 // Additional headers
 $headers = 'From: ' , $senderName . ' <' . $senderEmail . '>' . "\r\n" .
